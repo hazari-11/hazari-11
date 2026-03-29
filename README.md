@@ -94,27 +94,20 @@ Feel free to reach out — let's build something impactful together 🚀
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
-
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=githubactions)
-
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
 ![Kibana](https://img.shields.io/badge/-Kibana-000?&logo=elastic)
 
