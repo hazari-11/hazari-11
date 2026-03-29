@@ -117,4 +117,4 @@ Feel free to reach out — let's build something impactful together 🚀
 
 I enjoy diving deep into backend systems, optimizing performance, and exploring new technologies. When I'm not coding, you'll find me experimenting with system design patterns or building side projects.
 
-Happy coding! 🎉
+Happy Coding! 🎉
