@@ -90,12 +90,8 @@ Feel free to reach out — let's build something impactful together 🚀
 
 ## 🔧 Tech Stack Snapshot
 
-`Python` `Django` `DRF` `Laravel` `Kafka` `MySQL` `Docker` `Kubernetes` `Grafana` `Kibana` `React`
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![Django REST](https://img.shields.io/badge/-Django%20REST-000?&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
 
@@ -121,12 +117,6 @@ Feel free to reach out — let's build something impactful together 🚀
 
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
 ![Kibana](https://img.shields.io/badge/-Kibana-000?&logo=elastic)
-
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
-
-![C](https://img.shields.io/badge/-C-000?&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 
 ---
 
